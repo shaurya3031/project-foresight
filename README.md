@@ -3,7 +3,7 @@
 Foresight is an end-to-end predictive supply chain intelligence platform. It bridges the gap between historical sales data and actionable inventory decisions using machine learning and intuitive dashboards.
 
 ## Live Deployments
-- **Dashboard**: [Requires Deployment to Streamlit Cloud]
+- **Dashboard**: https://eavb6dso5hdkzgg5sz2zaw.streamlit.app
 - **API**: [Requires Deployment to Render] (docs at `<url>/docs`)
 
 ## Overview

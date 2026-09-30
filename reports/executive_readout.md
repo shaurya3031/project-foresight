@@ -38,6 +38,6 @@ Planners will open the dashboard daily, use the category filter for their depart
 3. Revisit and tune the risk thresholds after a month of real-world usage.
 
 ## Resources & Links
-- **Live Dashboard**: [Streamlit Cloud URL Pending Deployment]
-- **Live API**: [Render API URL Pending Deployment]
-- **GitHub Repository**: [GitHub Repo URL Pending Deployment]
+- **Live Dashboard**: https://eavb6dso5hdkzgg5sz2zaw.streamlit.app
+- **Live API**: https://project-foresight-tqm3.onrender.com (docs at /docs)
+- **GitHub Repository**: https://github.com/shaurya3031/project-foresight
