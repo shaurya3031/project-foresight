@@ -34,8 +34,8 @@
 ---
 
 ### **(1:35 - 2:05) Outcomes & Impact Delivered**
-* **👉 [Visual: Screen share back to the Streamlit Executive Summary KPIs highlighting the ₹2.8M stockout risk & ₹6.3M dead stock numbers.]**
-> "The final outcome exceeded my expectations. Project FORESIGHT achieved an 8.79% WAPE error rate, outperforming traditional baselines, and uncovered over ₹9 Million in actionable inventory risk for the client. The project is now fully live, deployed, and open-source on GitHub."
+* **👉 [Visual: Screen share back to the Streamlit Executive Summary KPIs highlighting the "Total Value at Risk (Stockouts)" & "Capital Tied Up (Overstock)" metrics.]**
+> "The final outcome exceeded my expectations. Project FORESIGHT achieved an 8.79% WAPE error rate, outperforming traditional baselines, and uncovered over ₹9 Million in actionable inventory risk for the client—specifically around 2.8 million rupees in stockout risk and 6.3 million rupees tied up in overstock. The project is now fully live, deployed, and open-source on GitHub."
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-### **Quick Recording Checklist for Video Submission:**
+### **Quick Recording Checklist for Video Submission:**+0
 1. **Lighting & Audio:** Ensure clear voice recording and bright front lighting.
 2. **Screen Recording Tool:** Use OBS Studio, Loom, or Zoom meeting recording.
 3. **Links to Include in Video Description:**
