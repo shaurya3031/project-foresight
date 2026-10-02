@@ -18,8 +18,8 @@
 *👉 [Visual: Open your web browser and navigate to the live Streamlit Dashboard: `https://eavb6dso5hdkzgg5sz2zaw.streamlit.app`]*
 "Let's look at what this actually looks like for a planner on the floor. I built this interactive web dashboard. Right at the top of the Executive Summary, you can see our macro KPIs. Below that is this 'Action Required' table, which mathematically categorizes every item into 'Reorder Now', 'Markdown', or 'Healthy' based on my forecasts and their lead times. 
 *👉 [Action: Click the 'Category' dropdown on the left and select "Furniture".]*
-"If I'm the Furniture category manager, I can filter the entire app to just see my items. 
-*👉 [Action: Click the 'SKU Deep Dive' tab on the left. Select "SKU012" from the dropdown. Hover your mouse over the line chart.]*
+"If I'm the Furniture category manager, I can filter the entire app to just see my items like SKU031. 
+*👉 [Action: Click the 'SKU Deep Dive' tab on the left. (Note: Make sure 'Category' filter is set to 'All Categories' or 'Home Decor' if you want to select SKU012, or pick 'SKU031' under Furniture). Select "SKU012" from the dropdown. Hover your mouse over the line chart.]*
 "And if I switch over to the 'SKU Deep Dive' tab, I can pick a specific high-risk item like SKU012. You can see my model's forecast mapped right alongside historical sales, complete with that shaded confidence interval I mentioned earlier."
 
 **(3:30 - 4:30) Live API Demo**
